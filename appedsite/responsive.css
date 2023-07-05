@@ -1,0 +1,1723 @@
+/* ****************** responsive 1200px to 992px start************************** */
+@media only screen and (max-width:1200px) and (min-width:992px){
+    .btn-get {
+        padding: 10px;
+    }
+    /* **************************** navbar end******************************** */
+    .heading-1{
+        position: absolute;
+        top: 210px;
+        left: 70px;
+    }
+/* ************************************welcome to our website start******************************************* */
+.left{
+    width: 50%;
+    padding: 10px;
+}
+.right{
+    width: 65%;
+}
+/* ************************************welcome to our website end******************************************* */
+/* * ****************************************.Features start****************************** */ */
+.featuresmain{
+    /* flex-direction: column; */
+    padding-top: 0px;
+}
+.Featuresleft{
+    
+    margin-top: 0px;
+}
+.Featuresright {
+    
+    margin-top: 10px;
+}
+.imagin{
+    height: 260px;
+    width: 356px;
+}
+.imagout {
+    width: 313px;
+    height: 220px;
+    position: absolute;
+    top: 160px;
+    right: 161px;
+    outline: 5px solid white;
+}
+ /* *****************************************Features middle* start******************************************* */
+ .suntmain{
+    flex-direction: column;
+ }
+ .suntleft{
+    width: 100%;
+ }
+ .lightimage{
+    width: 100%;
+ }
+ 
+ /* *****************************************Features middle* end******************************************* */
+
+/* ****************************************.features end****************************** */
+/* ****************************************.portfolio start****************************** */
+.imagesmain{
+    flex-direction: column;
+}
+.imagesfirst{
+    width: 100%;
+}
+.imagessecound{  
+    width: 100%; 
+}
+   
+
+.imagesthird{
+    width: 100%;
+}
+.masonry{
+    width: 100%;
+}
+.masonry2{
+    width: 100%;
+}
+.masonry3{
+    width: 100%;
+}
+.masonry4{
+    width: 100%;
+}
+.masonry5{
+    width: 100%;
+}
+.masonry6{
+    width: 100%;
+}
+.masonry7{
+    width: 100%;
+}
+.masonry8{
+    width: 100%;
+}
+.masonry9{
+    width: 100%;
+}
+
+/* ****************************************.portfolio end****************************** */
+/* ****************************************.pricing start****************************** */
+.mainpricing {
+    flex-direction: column;
+}
+
+.month1{
+    width: 100%;
+    
+}
+.month2{
+    width: 100%;
+
+}
+.month3{
+    width: 100%;
+
+}
+.buttonseco {
+    margin: 0px auto;
+}
+.iconcircle{
+    margin-left: 350px;
+}
+.listthird{
+    padding: 32px 270px;
+}
+
+/* ****************************************.pricing end****************************** */
+/* ****************************************..mainFreque start****************************** */
+.mainFrequently{
+    flex-direction: column;
+}
+
+.leftFrequent {
+    width: 100%;
+}
+.rightFrequent {
+    width: 100%;
+}
+/* ****************************************.mainFreque end****************************** */
+/* ****************************************.teamimages start****************************** */
+.mainteam{
+    flex-direction: column;
+    width: 100%;
+}
+.teamimages{
+    width: 100%;
+}
+.imgsirf img {
+    width: 40%;
+    height: 40%;
+}
+
+/* ****************************************.teamimages end****************************** */
+/* <!-- ************************************Recent Posts start************************************************** --> */
+.recent-post-main{
+    flex-direction: column;
+}
+
+.politics-img img{
+    width: 100%;
+}
+.politics {
+    width: 100%;
+}
+/* <!-- ************************************Recent Posts end************************************************** --> */
+/* <!-- ************************************contact start************************************************** --> */
+.contact_main{
+    flex-direction: column;
+}
+.left_contact {
+    width: 100%;
+}    
+.right_contact{
+    width: 100%;
+}
+.address {
+    width: 400px;
+}
+/* <!-- ************************************contact end************************************************** --> */
+/* <!-- ************************************append start************************************************** --> */ 
+.appendmain{
+    padding: 40px 0px;
+    flex-direction: column;
+}
+.appendright{
+    justify-content: space-evenly
+}
+/* <!-- ************************************append end************************************************** --> */ 
+
+
+
+
+}    
+
+
+
+
+/* ****************** responsive 1200px to 992px end************************** */
+/* ****************** responsive 991px to 768px start************************** */
+
+@media only screen and (max-width:991px) and (min-width:768px){
+    .logo-h {
+        padding: 10px;
+    }
+    .brand-logo {
+        width: 0%;
+    }
+    .btn-get {
+        padding: 10px 6px;
+        font-size: 11px;
+    }
+        /* **************************** navbar end******************************** */
+                /* ************************************welcome to our website start******************************************* */
+
+        .heading-1{
+            position: absolute;
+            top: 210px;
+            left: 70px;
+        }
+        .mainheding{
+            font-size: 43;
+        }
+/* ************************************welcome to our website end******************************************* */
+/* ********************************images ke niche ka start***************************************** */
+.maindiv{
+    flex-direction: column;
+    width: 100%;
+}
+.left{
+    width: 100%;
+    padding-left:10px ;
+}
+.right{
+    padding-left: 10px;
+    width: 100%;
+}   
+.right1{
+    padding: 20px;
+}            
+
+/* ********************************images ke niche ka end ***************************************** */
+/* ************************************.imagesurounnd start************************************ */
+.imagesurounnd {
+    height: 340px;
+    font-size: 18px;
+}
+/* ************************************.imagesurounnd end************************************ */
+/* ****************************************.services start****************************** */
+.loremmain{
+    flex-direction: column;
+}
+/* ****************************************.services end****************************** */
+/* ****************************************.Features start****************************** */
+.featuresmain{
+    flex-direction: column;
+    padding-top: 0px;
+}
+.Featuresleft{
+    width: 100%;
+    margin-top: 40px;
+}
+.Featuresright {
+    width: 100%;
+    margin-top: 20px;
+}
+.imagin{
+    height: 270px;
+    width: 420px;
+}
+.imagout {
+    width: 380px;
+    height: 190px;
+    position: absolute;
+    top: 320px;
+    right: 130px;
+    outline: 5px solid white;
+}
+ /* *****************************************Features middle* start******************************************* */
+ .suntmain{
+    flex-direction: column;
+ }
+ .suntleft{
+    width: 100%;
+ }
+ .lightimage{
+    width: 100%;
+ }
+ 
+ /* *****************************************Features middle* end******************************************* */
+/* ****************************************.features end****************************** */
+/* ****************************************.portfolio start****************************** */
+.imagesmain{
+    flex-direction: column;
+}
+.imagesfirst{
+    width: 100%;
+}
+.imagessecound{  
+    width: 100%; 
+}
+   
+
+.imagesthird{
+    width: 100%;
+}
+.masonry{
+    width: 100%;
+}
+.masonry2{
+    width: 100%;
+}
+.masonry3{
+    width: 100%;
+}
+.masonry4{
+    width: 100%;
+}
+.masonry5{
+    width: 100%;
+}
+.masonry6{
+    width: 100%;
+}
+.masonry7{
+    width: 100%;
+}
+.masonry8{
+    width: 100%;
+}
+.masonry9{
+    width: 100%;
+}
+
+/* ****************************************.portfolio end****************************** */
+
+/* ****************************************.pricing start****************************** */
+.mainpricing {
+    flex-direction: column;
+}
+
+.month1{
+    width: 100%;
+    
+}
+.month2{
+    width: 100%;
+
+}
+.month3{
+    width: 100%;
+
+}
+.buttonseco {
+    margin: 0px auto;
+}
+.iconcircle{
+    margin-left: 260px;
+}
+.listthird{
+    padding: 32px 180px;
+}
+
+/* ****************************************.pricing end****************************** */
+/* ****************************************..mainFreque start****************************** */
+.mainFrequently{
+    flex-direction: column;
+}
+
+.leftFrequent {
+    width: 100%;
+}
+.rightFrequent {
+    width: 100%;
+}
+/* ****************************************..mainFreque end****************************** */
+/* ****************************************.teamimages start****************************** */
+.mainteam{
+    flex-direction: column;
+    width: 100%;
+}
+.teamimages{
+    width: 100%;
+}
+.imgsirf img {
+    width: 50%;
+    height: 50%;
+}
+
+/* ****************************************.teamimages end****************************** */
+/*  *****************************************call action start********************************************** */
+
+.call-to-action {
+    width: 100%;
+}
+/*  *****************************************call action end********************************************** */
+/* *****************************************Testimonials start******************************************* */
+.right-matt1{
+    padding: 13px 25px;
+}
+/* *****************************************Testimonials end******************************************* */
+/* <!-- ************************************Recent Posts start************************************************** --> */
+.recent-post-main{
+    flex-direction: column;
+}
+
+.politics-img img{
+    width: 100%;
+}
+.politics {
+    width: 100%;
+}
+/* <!-- ************************************Recent Posts end************************************************** --> */
+/* <!-- ************************************contact start************************************************** --> */
+.contact_main{
+    flex-direction: column;
+}
+.left_contact {
+    width: 100%;
+}
+.right_contact{
+    width: 100%;
+    margin: 20px 0px;
+}
+.address {
+    width: 400px;
+}
+.subject{
+    width: 90%;
+}
+.messagge{
+    width: 90%;
+}
+.contact-sec {
+    padding: 0px 30px;
+}
+.your-name {
+    width: 50%;
+}
+/* <!-- ************************************contact end************************************************** --> */
+/* <!-- ************************************append start************************************************** --> */ 
+.appendmain{
+    padding: 40px 0px;
+    flex-direction: column;
+}
+.appendright{
+    justify-content: space-evenly
+}
+/* <!-- ************************************append end************************************************** --> */ 
+
+
+
+
+
+
+}
+/* ****************** responsive 991px to 768px end************************** */
+/* ****************** responsive 768px to 576px start************************** */
+
+@media only screen and (max-width:767px) and (min-width:576px){
+    .logo-h {
+        padding: 2px;
+    }
+    .brand-logo {
+        width: 0%;
+        padding: 0px;
+    }
+    .btn{
+        display: none;
+    }
+    .navlist{
+        width: 56%;
+    }
+    .btn-get {
+        padding: 8px;
+        font-size: 12px;
+    }
+    a{
+        padding: 8px;
+    }
+        /* **************************** navbar end******************************** */
+        /* ************************************welcome to our website start******************************************* */
+
+        .heading-1{
+            position: absolute;
+            left: 40px;
+            top: 210px;
+        }
+        .mainheding{
+            font-size: 37px;
+        }
+        form{
+            width: 400px;
+        }
+        img{
+            width: 78px;
+        }
+        /* ************************************welcome to our website end******************************************* */
+
+        /* ********************************images ke niche ka start***************************************** */
+        .maindiv{
+            flex-direction: column;
+            width: 100%;
+        }
+        .right{
+            flex-direction: column;
+            width: 80%;
+            padding: 0px 20px;
+           
+
+        }
+        .left{
+            padding: 0px 20px;
+            width: 80%;
+        }
+        .boxbuilding{
+            margin: 20px 80px;
+        }   
+        /* ********************************images ke niche ka end***************************************** */
+        /* ************************************.imagesurounnd start************************************ */
+        .imagesurounnd {
+            height: 300px;
+            font-size: 16px;
+        }
+        /* ************************************.imagesurounnd end************************************ */
+        /* ****************************************.services start****************************** */
+        .loremmain{
+            flex-direction: column;
+        }
+        /* ****************************************.services end****************************** */
+        /* ****************************************.Features start****************************** */
+        .featuresmain{
+            flex-direction: column;
+            padding-top: 0px;
+        }
+        .Featuresleft{
+            width: 100%;
+            margin-top: 40px;
+        }
+        .Featuresright {
+            width: 100%;
+            margin-top: 20px;
+        }
+        .imagin{
+            height: 260px;
+            width: 360px;
+        }
+        .imagout {
+            width: 340px;
+            height: 183px;
+            position: absolute;
+            top: 340px;
+            right: 130px;
+            outline: 5px solid white;
+        }
+         /* *****************************************Features middle* start******************************************* */
+ .suntmain{
+    flex-direction: column;
+ }
+ .suntleft{
+    width: 100%;
+ }
+ .lightimage{
+    width: 100%;
+    height: 350px;
+ }
+ 
+ /* *****************************************Features middle* end******************************************* */
+        /* ****************************************.features end****************************** */
+        /* ****************************************.portfolio start****************************** */
+.imagesmain{
+    flex-direction: column;
+}
+.imagesfirst{
+    width: 100%;
+}
+.imagessecound{  
+    width: 100%; 
+}
+   
+
+.imagesthird{
+    width: 100%;
+}
+.masonry{
+    width: 100%;
+}
+.masonry2{
+    width: 100%;
+}
+.masonry3{
+    width: 100%;
+}
+.masonry4{
+    width: 100%;
+}
+.masonry5{
+    width: 100%;
+}
+.masonry6{
+    width: 100%;
+}
+.masonry7{
+    width: 100%;
+}
+.masonry8{
+    width: 100%;
+}
+.masonry9{
+    width: 100%;
+}
+.text{
+    left: 50%;
+}
+
+/* ****************************************.portfolio end****************************** */
+/* ****************************************.pricing start****************************** */
+.mainpricing {
+    flex-direction: column;
+}
+
+.month1{
+    width: 100%;
+    
+}
+.month2{
+    width: 100%;
+
+}
+.month3{
+    width: 100%;
+
+}
+.buttonseco {
+    margin: 0px auto;
+}
+.iconcircle{
+    margin-left: 180px;
+}
+.listthird{
+    padding: 32px 90px;
+}
+
+/* ****************************************.pricing end****************************** */
+/* ****************************************..mainFreque start****************************** */
+.mainFrequently{
+    flex-direction: column;
+}
+
+.leftFrequent {
+    width: 100%;
+}
+.rightFrequent {
+    width: 100%;
+}
+/* ****************************************..mainFreque end****************************** */
+/* ****************************************.teamimages start****************************** */
+.mainteam{
+    flex-direction: column;
+    width: 100%;
+}
+.teamimages{
+    width: 100%;
+}
+.imgsirf img {
+    width: 50%;
+    height: 50%;
+}
+
+/* ****************************************.teamimages end****************************** */
+/*  *****************************************call action start********************************************** */
+
+.call-to-action {
+    width: 100%;
+}
+.btn25call{
+    margin: 20px 0px;
+}
+.buttonsecocall{
+    margin: auto;
+}
+/*  *****************************************call action end********************************************** */
+/* *****************************************Testimonials start******************************************* */
+.right-matt1{
+    padding: 13px 25px;
+}
+.Testimonial-main {
+    width: 100%;
+    flex-direction: column;
+}
+
+.lefttestimonial {
+    width: 100%;
+    padding: 20px 0px;
+}
+.righttestimonial{
+    width: 100%;
+    margin: 30px 0px;
+}
+/* *****************************************Testimonials end******************************************* */
+/* <!-- ************************************Recent Posts start************************************************** --> */
+.recent-post-main{
+    flex-direction: column;
+}
+
+.politics-img img{
+    width: 100%;
+}
+.politics {
+    width: 100%;
+}
+/* <!-- ************************************Recent Posts end************************************************** --> */
+/* <!-- ************************************contact start************************************************** --> */
+.contact_main{
+    flex-direction: column;
+}
+.left_contact {
+    width: 100%;
+}
+.right_contact{
+    width: 100%;
+    margin: 20px 0px;
+}
+.address {
+    width: 400px;
+}
+.contact-sec {
+    padding: 0px 30px;
+}
+.your-name {
+    width: 50%;
+}
+.subject{
+    width: 90%;
+}
+.messagge{
+    width: 90%;
+}
+.btn_send{
+    margin-left:175px ;
+}
+.inputtag {
+    width: 88%;
+    height: 40px;
+    padding-left: 10px;
+}
+/* <!-- ************************************contact end************************************************** --> */   
+/* <!-- ************************************append start************************************************** --> */ 
+.appendmain{
+    padding: 40px 0px;
+    flex-direction: column;
+}
+.appendright{
+    justify-content: space-evenly
+}
+/* <!-- ************************************append end************************************************** --> */ 
+
+
+}
+/* ****************** responsive 768px to 576px end************************** */
+/* ****************** responsive 575px to 425px start************************** */
+
+@media only screen and (max-width:575px) and (min-width:425px){
+    .btn{
+        display: none;
+    }
+    a{
+        font-size: 13px;
+        padding: 4px;
+    }
+    .brand-logo{
+        width: 3%;
+    }
+    .logo-h{
+        padding: 0px;
+    }
+    .navbar{
+        width: 100%;
+
+    }
+    .btn{
+        display: none;
+    }
+        /* **************************** navbar end******************************** */
+/* ************************************welcome to our website start******************************************* */
+
+        .mainheding{
+            font-size: 23px;
+        }
+        .firstpara{
+            font-size: 15px;
+        }
+        .heading-1{
+            position: absolute;
+            left: 30px;
+            top: 250px;
+        }
+        form{
+            width: 385px;
+            height: 50px;
+            margin: 5px;
+        }
+        .searchbar{
+            position: absolute;
+            top: 73px;
+        }
+        img{
+            width: 50px;
+        }
+ /* ************************************welcome to our website end******************************************* */
+/* ********************************images ke niche ka start***************************************** */
+
+
+        .maindiv{
+            flex-direction: column;
+            width: 100%;
+        }
+        .right{
+            flex-direction: column;
+            width: 80%;
+            padding: 20px;
+
+        }
+        .left{
+            padding-left:20px ;
+            width: 80%;
+        }
+        
+        /* ********************************images ke niche ka end***************************************** */
+        /* ************************************.imagesurounnd start************************************ */
+        .imagesurounnd {
+            height: 250px;
+            font-size: 14px;
+        }
+        /* ************************************.imagesurounnd end************************************ */
+         /* ****************************************.services start****************************** */
+         .loremmain{
+            flex-direction: column;
+        }
+        /* ****************************************.services end****************************** */
+        .featuresmain{
+            flex-direction: column;
+            padding-top: 0px;
+        }
+        .Featuresleft{
+            width: 100%;
+            margin-top: 40px;
+        }
+        .Featuresright {
+            width: 100%;
+            margin-top: 20px;
+        }
+        .imagin{
+            height: 220px;
+            width: 250px;
+        }
+        .imagout {
+            width: 250px;
+            height: 183px;
+            position: absolute;
+            top: 330px;
+            right: 84px;
+            outline: 5px solid white;
+        }
+        /* ****************************************.features end****************************** */
+             /* *****************************************Features middle* start******************************************* */
+ .suntmain{
+    flex-direction: column;
+ }
+ .suntleft{
+    width: 100%;
+
+ }
+ .lightimage{
+    width: 100%;
+    height: 300px;
+    
+ }
+ 
+ /* *****************************************Features middle* end******************************************* */
+ /* ****************************************.portfolio start****************************** */
+.imagesmain{
+    flex-direction: column;
+}
+.imagesfirst{
+    width: 100%;
+    height: 1050px;
+}
+.imagessecound{  
+    width: 100%; 
+    height: 1135px;
+}
+   
+
+.imagesthird{
+    width: 100%;
+}
+.masonry{
+    width: 100%;
+}
+.masonry2{
+    width: 100%;
+}
+.masonry3{
+    width: 100%;
+}
+.masonry4{
+    width: 100%;
+}
+.masonry5{
+    width: 100%;
+}
+.masonry6{
+    width: 100%;
+}
+.masonry7{
+    width: 100%;
+}
+.masonry8{
+    width: 100%;
+}
+.masonry9{
+    width: 100%;
+}
+.text{
+    left: 50%;
+}
+
+/* ****************************************.portfolio end****************************** */
+/* ****************************************.pricing start****************************** */
+.mainpricing {
+    flex-direction: column;
+}
+
+.month1{
+    width: 100%;
+    
+}
+.month2{
+    width: 100%;
+
+}
+.month3{
+    width: 100%;
+
+}
+.buttonseco {
+    margin: 0px auto;
+}
+.iconcircle{
+    margin-left: 120px;
+}
+.listthird{
+    padding: 32px 30px;
+}
+
+/* ****************************************.pricing end****************************** */
+/* ****************************************..mainFreque start****************************** */
+.mainFrequently{
+    flex-direction: column;
+}
+
+.leftFrequent {
+    width: 100%;
+}
+.rightFrequent {
+    width: 100%;
+}
+.box{
+    height: 200px;
+}
+/* ****************************************..mainFreque end****************************** */
+/* ****************************************.teamimages start****************************** */
+.mainteam{
+    flex-direction: column;
+    width: 100%;
+}
+.teamimages{
+    width: 100%;
+}
+.imgsirf img {
+    width: 50%;
+    height: 50%;
+}
+
+/* ****************************************.teamimages end****************************** */
+/*  *****************************************call action start********************************************** */
+
+.call-to-action {
+    width: 100%;
+}
+.btn25call{
+    margin: 20px 0px;
+}
+.buttonsecocall{
+    margin: auto;
+}
+/*  *****************************************call action end********************************************** */
+/* *****************************************Testimonials start******************************************* */
+.right-matt1{
+    padding: 13px 25px;
+}
+.Testimonial-main {
+    width: 100%;
+    flex-direction: column;
+}
+
+.lefttestimonial {
+    width: 100%;
+    padding: 20px 0px;
+}
+.righttestimonial{
+    width: 100%;
+    margin: 30px 0px;
+}
+/* *****************************************Testimonials end******************************************* */
+/* <!-- ************************************Recent Posts start************************************************** --> */
+.recent-post-main{
+    flex-direction: column;
+}
+.Featureshd{
+    font-size: 18px;
+}
+
+.politics-img img{
+    width: 100%;
+}
+.politics {
+    width: 100%;
+}
+/* <!-- ************************************Recent Posts end************************************************** --> */
+/* <!-- ************************************contact start************************************************** --> */
+.contact_main{
+    flex-direction: column;
+}
+.secound_row{
+    flex-direction: column;
+}
+.first_row{
+    flex-direction: column;
+}
+.left_contact {
+    width: 100%;
+}
+.right_contact{
+    width: 100%;
+    margin: 20px 0px;
+}
+.address {
+    width: 90%;
+}
+.contact-sec {
+    padding: 0px 30px;
+}
+.your-name {
+    width: 48%;
+}
+.subject{
+    width: 87%;
+}
+.messagge{
+    width: 85%;
+}
+.btn_send{
+    margin-left:96px ;
+}
+.inputtag {
+    width: 88%;
+    height: 40px;
+    padding-left: 10px;
+}
+/* <!-- ************************************contact end************************************************** --> */   
+/* <!-- ************************************append start************************************************** --> */ 
+.appendmain{
+    padding: 40px 0px;
+    flex-direction: column;
+}
+.appendleft{
+    width: 360px;
+}
+.appendright{
+    justify-content: space-evenly
+}
+/* <!-- ************************************append end************************************************** --> */ 
+
+
+}
+/* ****************** responsive 575px to 425px end************************** */
+
+/* ****************** responsive 424px to 320px start************************** */
+
+@media only screen and (max-width:424px) and (min-width: 320px){
+    .btn{
+        display: none;
+
+    }
+    a{
+        font-size: 10px;
+        padding: 3px;
+    }
+    .brand-logo{
+        width: 0px;
+    }
+    .logo-h{
+        padding: 0px;
+        font-size: 18px;
+    }
+    
+        /* **************************** navbar end******************************** */
+        /* ************************************welcome to our website start******************************************* */
+
+        form{
+            width: 280px;
+            height: 30px;
+        }
+        .navbar{
+            width:100%;
+        }
+        .first_bg{
+            padding: 150px 0px;
+        }
+        .heading-1 {
+            left: 10px;
+            top: 150px;
+        }        
+        .mainheding{
+            font-size: 17px;
+        }
+        .firstpara{
+            font-size: 13px;
+        }
+        .mainheding{
+            font-size: 22px;
+        }
+        .searchbar{
+            position: absolute;
+            top: 73px;
+        }
+        form button{
+            height: 24px;
+            margin: 3px;
+            padding: 0px;
+            width: 70px;            
+            font-size: 9px;
+        }
+        form input{
+            padding-left: 10px;
+        }
+        input::placeholder {
+            font-size: 11px ;
+        }
+        img{
+            width: 41px;
+        }
+        /* ************************************welcome to our website end******************************* */
+
+        /* ********************************images ke niche ka start***************************************** */
+        .maindiv{
+            flex-direction: column;
+            width: 100%;
+        }
+        .right{
+            flex-direction: column;
+            width: 74%;
+
+        }
+        .ab{
+            width: 65px;
+            font-size: 12px;
+        }
+        .left{
+            padding: 0px;
+            width: 80%;
+        }
+        .paraheading{
+            font-size: 18px;
+        }
+        .parabulding{
+            font-size: 13px;
+        }
+        .buildingname{
+            font-size: 17px;
+
+        }
+        .magni-para{
+            font-size: 11px;
+            padding: 0px 20px;
+        }
+        .buttonr{
+            font-size: 11px;
+            width: 80px;
+            height: 10px;
+        }
+        .boxbuilding{
+            padding: 20px 0px;
+            margin: 20px 0px;
+            height: 140px;
+            text-align: center;
+        }
+        .iconfirst {
+            font-size: 27px;
+            width: 60px;
+            height: 60px;
+        }
+
+        .iconcase{
+            font-size: 45px;
+        }
+        .iconfirst{
+            margin-left: 70px;
+            margin-top: 0px;
+        }
+        /* ********************************images ke niche ka end***************************************** */
+        /* ****************************************.imagesurounnd start****************************** */
+        .imagesurounnd {
+            height: 200px;
+            font-size: 10px;
+        }
+        /* ****************************************.imagesurounnd end****************************** */
+        /* ****************************************.services start****************************** */
+        .loremmain{
+            flex-direction: column;
+        }
+        .services{
+            font-size: 17px;
+        }
+        .services::before, .services::after{
+            margin: 4px;
+            width: 40px;
+        }
+        .before-para{
+            font-size: 11px;
+            padding: 0px 20px;
+        }
+        /* ****************************************.services end****************************** */
+        /* ****************************************.features start****************************** */
+        .featuresmain{
+            flex-direction: column;
+            padding-top: 0px;
+        }
+        .Featureshd {
+            font-size: 15px;
+        }
+        .Featuresleft{
+            width: 100%;
+            margin-top: 40px;
+        }
+        .Featuresright {
+            width: 100%;
+            margin-top: 20px;
+        }
+        .ulinthis {
+            line-height: 19px;
+        }
+        .buttonfe{
+            margin: 10px auto;
+        }
+
+        .imagin{
+            height: 190px;
+            width: 220px;
+        }
+        .loremfont{
+            font-size: 15px;
+        }
+        .Voluptatum-para{
+            font-size: 11px;
+        }
+        .Corporis-heding{
+            font-size: 17px;
+        }
+        .feature-left-para{
+            font-size: 11px;
+        }
+        .imagout {
+            width: 192px;
+            height: 145px;
+            position: absolute;
+            top: 273px;
+            right: 75px;
+            outline: 5px solid white;
+        }
+        .Featureshd::before, .Featureshd::after {
+            width: 30px;
+            height: 2px;
+            margin: 4px;
+        }
+
+        .buttonfe {
+            font-size: 10px;
+            width: 80px;
+            height: 10px;
+        }
+
+        /* ****************************************.features end****************************** */
+         /* *****************************************Features middle* start******************************************* */
+ 
+         .suntmain{
+            flex-direction: column;
+            margin-top: 70px;
+         }
+         .suntleft{
+            width: 100%;
+        
+         }
+         .lightimage{
+            width: 100%;
+            height: 250px;
+            
+         }
+         .suntright {
+            margin-left: 0px;
+            padding: 30px 0px 0px 0px;
+            width: 100%;
+            text-align: center;
+        }
+        .suntheding {
+            font-size: 18px;
+        }
+        .Cupiditate-para{
+            font-size: 11px;
+        }
+        .listsecound{
+            font-size: 11px;
+        }
+
+
+ /* *****************************************Features middle* end******************************************* */
+  /* ****************************************.portfolio start****************************** */
+.imagesmain{
+    flex-direction: column;
+}
+.div1234{
+    width: 35px;
+    height: 10px;
+    font-size: 10px;
+}
+.imagesfirst{
+    width: 100%;
+    height: 560px;
+}
+.imagessecound{  
+    width: 100%; 
+    height: 862px;
+}
+   
+
+.imagesthird{
+    width: 100%;
+    height: 1130px;
+}
+.masonry{
+    width: 100%;
+    height: 250px;
+}
+.masonry2{
+    width: 100%;
+    height: 300px;
+}
+.masonry3{
+    width: 100%;
+    height: 300px;
+}
+.masonry4{
+    width: 100%;
+    height: 300px;
+}
+.masonry5{
+    width: 100%;
+    height: 230px;
+}
+.masonry6{
+    width: 100%;
+}
+.masonry7{
+    width: 100%;
+}
+.masonry8{
+    width: 100%;
+}
+.masonry9{
+    width: 100%;
+}
+.text{
+    left: 50%;
+}
+
+/* ****************************************.portfolio end****************************** */
+/* ****************************************.pricing start****************************** */
+.mainpricing {
+    flex-direction: column;
+}
+
+.month1{
+    width: 100%;
+    margin:10px 0px ;
+    height: 370px;
+    
+}
+.month2{
+    width: 100%;
+    margin:10px 0px;
+    height: 370px;
+
+}
+.month3{
+    width: 100%;
+    margin:10px 0px;
+    height: 370px;
+
+}
+.ulinthis{
+    font-size: 13px;
+}
+.buttonseco {
+    background-color: #e84545;
+    border-radius: 5px;
+    width: 75px;
+    cursor: pointer;
+    text-align: center;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    height: 10px;
+    font-size: 10px;
+}
+.iconcircle{
+        margin: auto;
+        font-size: 27px;
+        background-color: #e84545;
+        width: 50px;
+        color: white;
+        outline: 8px solid #ece4e4;
+        border: 8px solid rgb(249, 205, 205);
+        height: 37px;
+        padding-top: 10px;
+        margin-top: 24px;
+        border-radius: 50%;
+    
+}
+.righticonsecogra {
+    font-size: 19px;
+}
+
+.month-red{
+    font-size: 12px;
+}
+.listthird{
+    padding: 20px 0px;
+}
+.btn25 {
+    margin: 10px 80px;
+}
+
+.boxheding {
+    font-size: 18px;
+}
+
+
+/* ****************************************.pricing end****************************** */
+/* ****************************************..mainFreque start****************************** */
+.mainFrequently{
+    flex-direction: column;
+}
+
+.leftFrequent {
+    width: 100%;
+}
+.rightFrequent {
+    width: 100%;
+}
+.frequentheding {
+    font-size: 15px;
+}
+.fre-para{
+    font-size: 12px;
+}
+.box{
+    height: 180px;
+}
+.Featureshd{
+    font-size: 18px;
+}
+/* ****************************************..mainFreque end****************************** */
+/* ****************************************.teamimages start****************************** */
+.mainteam{
+    flex-direction: column;
+    width: 100%;
+}
+.name{
+    font-size: 15px;
+}
+.teampara{
+    font-style: italic;
+    font-size:11px;
+}
+.biopara{
+    font-size: 11px;
+    padding: 0px 32px;
+}
+.teamimages{
+    width: 100%;
+}
+.imgsirf img {
+    width: 50%;
+    height: 50%;
+}
+
+/* ****************************************.teamimages end****************************** */
+/*  *****************************************call action start********************************************** */
+
+.call-to-action {
+    width: 100%;
+    padding: 30px 0px;
+}
+.call-heading{
+    font-size: 17px;
+}
+.callpara {
+    font-size: 11px;
+    padding: 0px 20px;
+}
+.imagesurounnd-call {
+    padding: 10px 0px;
+}
+.buttonsecocall {
+    width: 100px;
+    font-size: 12px;
+    height: 13px;
+}
+
+.btn25call{
+    margin: 20px 0px;
+}
+.buttonsecocall{
+    margin: auto;
+}
+/*  *****************************************call action end********************************************** */
+/* *****************************************Testimonials start******************************************* */
+.right-matt1{
+    padding: 13px 25px;
+}
+.Testimonial-main {
+    width: 100%;
+    flex-direction: column;
+}
+.font-test{
+    font-size: 18px;
+}
+.para-test {
+    font-size: 11px;
+}
+.font-test2{
+    font-size: 14px;
+}
+.lefttestimonial {
+    width: 90%;
+    padding: 20px 10px;
+    
+}
+.matt-about{
+    font-size: 11px;
+}
+p.para-test2 {
+    font-size: 13px;
+    font-style: italic;
+}
+.politicsheding{
+    font-size: 14px;
+}
+.politicspara{
+    font-size: 13px;
+    font-style: italic;
+}
+.para-test22 {
+    font-size: 13px;
+    font-style: italic;
+}
+
+.righttestimonial{
+    width: 100%;
+    margin:  0px;
+    height: 200px;
+}
+/* *****************************************Testimonials end******************************************* */
+/* <!-- ************************************Recent Posts start************************************************** --> */
+.recent-post-main{
+    flex-direction: column;
+}
+/* <!-- ************************************Recent Posts end************************************************** --> */
+/* <!-- ************************************Recent Posts start************************************************** --> */
+.recent-post-main{
+    flex-direction: column;
+}
+
+.politics-img img{
+    width: 100%;
+}
+.politics {
+    width: 100%;
+    margin: 20px 0px;
+}
+.recent-post {
+    padding: 0px 0px;
+}
+/* <!-- ************************************Recent Posts end************************************************** --> */
+/* <!-- ************************************contact start************************************************** --> */
+.contact_main{
+    flex-direction: column;
+}
+.secound_row{
+    flex-direction: column;
+}
+.first_row{
+    flex-direction: column;
+}
+.left_contact {
+    width: 100%;
+}
+.right_contact{
+    width: 100%;
+    margin: 20px 0px;
+}
+.address {
+    width: 80%;
+    height: 120px;
+}
+.contact-sec {
+    padding: 0px 30px;
+}
+.your-name {
+    width: 37%;
+}
+.subject{
+    width: 75%;
+    margin: 0px 20px;
+}
+.messagge{
+    width: 75%;
+}
+.contact-heading{
+    font-size: 15px;
+    margin: 5px 20px;
+}
+.contact-para {
+    font-size: 12px;
+}
+.contact_icon {
+    font-size: 30px;
+}
+.logo-append {
+    font-size: 22px;
+}
+.append-para {
+    font-size: 13px;
+}
+.socialicon{
+    font-size: 13px;
+    width: 10px;
+    height: 10px;
+}
+
+
+.btn_send{
+    margin-left:60px;
+    width: 100px;
+    font-size: 12px;
+}
+.inputtag {
+    width: 88%;
+    height: 40px;
+    padding-left: 10px;
+}
+/* <!-- ************************************contact end************************************************** --> */ 
+/* <!-- ************************************append start************************************************** --> */ 
+.appendmain{
+    padding: 40px 0px;
+    flex-direction: column;
+}
+/* <!-- ************************************append end************************************************** --> */ 
+/* <!-- ************************************append start************************************************** --> */ 
+.appendmain{
+    padding: 40px 0px;
+    flex-direction: column;
+}
+.appendleft{
+    width: 260px;
+}
+.appendright{
+    justify-content: space-evenly;
+    flex-direction: column;
+
+    
+}
+.servise-ul li a {
+    font-size: 13px;
+}
+.same-end-para{
+    font-size: 11px;
+}
+
+.servise-ul {
+    line-height: 22px;
+}
+.footer{
+    line-height: 18px;
+}
+.min-div{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 17px;
+}
+.last-text{
+    font-size: 12px;
+}
+/* <!-- ************************************append end************************************************** --> */ 
+
+
+
+}
+/* ****************** responsive 424px to 320px end************************** */
